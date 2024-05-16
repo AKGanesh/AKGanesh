@@ -1,9 +1,10 @@
 ```yaml
 Ability is limitless, do more, be more!
 ```
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00) <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+![visitors](https://vbr.nathanchung.dev/badge?page_id=AKGanesh.AKGanesh) <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<img src="https://github.com/AKGanesh/AKGanesh/assets/13330698/af6e67e0-270c-4a73-aa6b-977b9ef9d40d" height="95px" align="right">
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 Software Engineering and AI practitioner
 - 💼 Director - Engineering at Xebia
 - 🎓 BTech & MS by Research in EE
@@ -21,7 +22,6 @@ Feel free to reach me at the email in my GitHub profile. Follow my socials!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/akganesh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/AKGanesh)
-
 
 <!-- #### 👨🏻‍💻 Languages and Tools <br />
 - 🔭 I’m currently working on ...
